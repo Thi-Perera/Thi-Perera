@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 🎓 I graduated in **Computer Science**
-- 
+  
 - 🌱 I’m currently learning **mobile dev, Machine learning, Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [thi-perera.world](thi-perera.world)

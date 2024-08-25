@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **mobile dev, Machine learning, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [thi-perera.world](thi-perera.world)
+- 👨‍💻 Take a look at [thi-perera.world](Thi-Perera.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
